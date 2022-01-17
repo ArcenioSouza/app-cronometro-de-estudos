@@ -4,7 +4,7 @@ Aplicativo para organizar tempo de estudo de diferentes temas.
 
 # Objetivos
 
-- [ok] Criar um aplicativo em ReactJS com Typescript;
+- [ ok ] Criar um aplicativo em ReactJS com Typescript;
 
 - [ ] Praticar a criação de componentes reutilizáveis;
 
