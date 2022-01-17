@@ -4,17 +4,17 @@ Aplicativo para organizar tempo de estudo de diferentes temas.
 
 # Objetivos
 
-- [ ok ] Criar um aplicativo em ReactJS com Typescript;
+- [x] Criar um aplicativo em ReactJS com Typescript;
 
-- [ ] Praticar a criação de componentes reutilizáveis;
+- [x] Praticar a criação de componentes reutilizáveis;
 
-- [ ] Aprender a tipagem de componentes React com Typescript;
+- [x] Aprender a tipagem de componentes React com Typescript;
 
-- [ ] Aprender a configurar e usar a linguagem de extensão CSS SASS;
+- [x] Aprender a configurar e usar a linguagem de extensão CSS SASS;
 
-- [ ] Aprender a configurar tipos em Typescript através do uso de interfaces;
+- [x] Aprender a configurar tipos em Typescript através do uso de interfaces;
 
-- [ ] Praticar o uso de States com Hooks e React Components;
+- [x] Praticar o uso de States com Hooks e React Components;
 
 # Créditos
 
