@@ -34,3 +34,4 @@ Ao professor [@Ifrprazeres](https://github.com/lfrprazeres) pela excelente aula 
 
 # Link para site
 
+[https://cronometro-estudos.netlify.app/](https://cronometro-estudos.netlify.app/)
