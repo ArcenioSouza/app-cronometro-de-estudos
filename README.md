@@ -26,7 +26,7 @@ Aplicativo para organizar tempo de estudo de diferentes temas.
 
 - [x] Praticar o uso de useEffect;
 
-- [x] Apreder a usar uma função recursiva;
+- [x] Aprender a usar uma função recursiva;
 
 # Créditos
 
